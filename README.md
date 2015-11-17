@@ -34,8 +34,7 @@ Enlist should interoperate with with **mr**. There is a copy in the bin/. see he
 
 # todos and ideas
 * module/config dependencies
-* merge option for enlist (don't overwrite local updates to .mrconfig)
-* create config from existing enlistments
+* create config from existing enlistments (see mr register)
 * manage active modules in intellij .ipr
 * manage database connections
 * update ~/.mrtrust
