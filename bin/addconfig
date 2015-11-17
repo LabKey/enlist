@@ -1,0 +1,3 @@
+#!/bin/bash
+ENLIST_DIR=`dirname $0`
+python $ENLIST_DIR/enlist_main.py addconfig $*
